@@ -47,3 +47,7 @@ The data was analyzed using PivotTables to calculate averages and compare differ
 ## Limitation
 
 These findings show relationships and patterns in the dataset but do not prove that one factor directly causes another. Other factors may also influence student performance and placement outcomes.
+
+## Tableau Dashboard
+
+[View the interactive Tableau dashboard](https://public.tableau.com/app/profile/harni.patel/viz/Book1_17895092746570/StudentPerformancePlacementDashboard?publish=yes)
