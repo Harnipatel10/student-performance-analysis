@@ -51,3 +51,11 @@ These findings show relationships and patterns in the dataset but do not prove t
 ## Tableau Dashboard
 
 [View the interactive Tableau dashboard](https://public.tableau.com/app/profile/harni.patel/viz/Book1_17895092746570/StudentPerformancePlacementDashboard?publish=yes)
+
+
+## Key Insights
+
+- Students with higher study hours generally had higher average exam scores.
+- Higher attendance was associated with higher average exam scores.
+- Placed students had higher average exam scores, study hours, previous scores, and attendance than students who were not placed.
+- The Tableau dashboard allows users to interactively explore these patterns by placement status.
